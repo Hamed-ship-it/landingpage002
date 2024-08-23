@@ -1,0 +1,124 @@
+nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+
+}
+nav ul li {
+    list-style: none;
+    
+}
+nav ul li a:hover{
+    text-decoration: underline;
+    color: rgb(83, 27, 185);
+
+}
+ .property {
+    margin-right: 120px;
+ }
+ .book {
+    margin-left: 120px;
+ }
+ .discover {
+    background-image: url(bck.png);
+    width: 100%;
+    height: 400px;
+
+ }
+ .discover h1 {
+    font-size: 60px;
+    text-align: center;
+    padding-top: 60px;
+    color: aliceblue;
+ }
+ .more {
+    
+    margin-left: 600px;
+    
+ }
+ button {
+    border-radius: 10px;
+ }
+
+ 
+    
+ 
+ .display{
+    display: flex;
+    justify-content: space-between;
+ }
+ .position{
+    position: relative;
+    width: 30%;
+    height: 300px;
+
+ }
+ .stimage {
+   width: 150%;
+   height: 300px;
+   position: relative;
+   top: 0;
+   left: 0;
+ }
+ .ndimage {
+   width: 30%;
+   height: 300px;
+   position: absolute;
+   margin-top: 60px;
+   top: 500px;
+   left: 900px;
+ }
+ .text {
+   margin-left: 100px;
+ }
+ .secc {
+   margin-right: 450px;
+ }
+ section .test {
+   margin-top: 150px;
+   background-color: rgb(8, 138, 182);
+ }
+ img {
+   width: 24%;
+   height: 250px;
+   
+ }
+ section .test p {
+   text-align: center;
+   font-size: 60px;
+   color: ghostwhite;
+   
+ }
+ section .unlock {
+   display: flex;
+   justify-content: space-between;
+ } 
+section .unlock img {
+   width: 25%;
+   height: 600px;
+   margin-left: 150px;
+}
+.why {
+   margin-left: 0;
+   margin-right: 150px;
+   margin-top: 60px;
+   
+}
+.end ul {
+   display: flex;
+   justify-content: space-between;
+}
+.guru {
+   margin-right: 150px;  
+}
+.end ul {
+   margin-left: 100px;
+   margin-right: 100px;
+  
+}
+section .end ul li {
+   text-decoration: none;
+}
